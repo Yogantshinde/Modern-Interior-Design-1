@@ -115,8 +115,6 @@ This project was created to demonstrate frontend web development skills includin
 
 **Yogant Shinde**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Yogantshinde
 
-## 📄 License
 
-This project is created for educational and portfolio purposes.
